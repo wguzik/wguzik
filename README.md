@@ -1,4 +1,6 @@
-## Hi there 👋
+## Pierwsze kroki w chmurze i DevOps
+
+Cześć, mam nadzieję, że dzięki tym materiałom Twoje pierwsze kroki w chmurze i DevOps proste! 
 
 ### Repozytoria edukacyjne
 W moich repozytoriach znajdziesz materiały do nauki następujących technologii:
